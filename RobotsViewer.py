@@ -9,6 +9,7 @@ import banner
 system = platform.system()
 
 banner.banner()
+print("By MikeTheHash     https://github.com/MikeTheHash")
 
 print(colorama.Back.RED + colorama.Fore.WHITE + "[+] You can see the parameters using \"-h\" or \"--help\"")
 print(colorama.Back.RED + colorama.Fore.WHITE + "[+] You must set the parameters!" + colorama.Style.RESET_ALL )
