@@ -8,3 +8,4 @@ pip install colorama
 pip install time
 pip install os
 
+python3 RobotsViewer.py --help
